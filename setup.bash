@@ -1,4 +1,6 @@
 #!/bin/bash -xve
+#written by  T. shouda
+
 
 exec 2> /tmp/setup.log
 
