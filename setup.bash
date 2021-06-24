@@ -1,4 +1,6 @@
 #!/bin/bash -xve
+#Written by Shouda tomoki
+
 
 exec 2> /tmp/setup.log
 
