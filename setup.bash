@@ -1,5 +1,8 @@
 #!/bin/bash -xve
-#Written by Shouda tomoki
+<<<<<<< HEAD
+=======
+#written by  T. shouda
+>>>>>>> 122a898d056a92fca4106d4d8d520d0f2a2c6e9f
 
 
 exec 2> /tmp/setup.log
